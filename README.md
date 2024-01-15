@@ -50,3 +50,7 @@ classDiagram
   User "1" *-- "1" Card
   User "1" *-- "N" News
 ```
+
+## API Documentation (Swagger)
+
+### [https://bank-account-api-prd.up.railway.app/swagger-ui.html)
